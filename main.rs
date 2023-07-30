@@ -57,7 +57,7 @@ fn main() {
 
 
     stack.push("Sleepy");
-    stack.push("makes");
+    stack.push("So");
     stack.push("Me");
 
     println!("What's on the top: {:?}", stack.top());
